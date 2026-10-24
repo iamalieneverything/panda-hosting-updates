@@ -1,0 +1,8 @@
+{
+  "version": "1.1.6",
+  "file": "panda-1.1.6.tar.gz",
+  "sha256": "08f6e2d3314144519c2268d48fe54a095f886f62a77d88a5d1d6f2b331a402ae",
+  "size": 6035367,
+  "date": "2026-10-24T17:53:35.306Z",
+  "notes": "- Friends with Tailscale: your friends now show up in \"Who can connect\" with a Test button (Tailscale's own relay machines filled the list before).\n- Each server gets its exact Tailscale address, port included (like 100.80.233.40:25566). The numbers always work, even when the .ts.net name doesn't.\n- PandA shows when this box isn't connected to Tailscale, and restarts Tailscale by itself if it stays cut off for 2 minutes."
+}
